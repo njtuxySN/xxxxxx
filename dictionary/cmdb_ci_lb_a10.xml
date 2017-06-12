@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_lb" label="A10 Load Balancer" max_length="40" name="cmdb_ci_lb_a10" type="collection">
+        <element choice="1" label="xx" max_length="40" name="x_test123_x_testxx123_xx" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

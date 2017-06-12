@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_test123_x_testxx123_xx" label="xx" language="en" table="cmdb_ci_lb_a10">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_test123_x_testxx123_xx</element>
+            <help/>
+            <hint/>
+            <label>xx</label>
+            <language>en</language>
+            <name>cmdb_ci_lb_a10</name>
+            <plural>xxes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-12 23:13:15</sys_created_on>
+            <sys_id>146d2bb1f1533200964f7268755275e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>xx</sys_name>
+            <sys_package display_value="test123" source="x_test123">112a6771f1533200964f7268755275e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test123">112a6771f1533200964f7268755275e3</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_lb_a10_x_test123_x_testxx123_xx_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-12 23:13:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
