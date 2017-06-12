@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="test_table" language="en" table="x_test123_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test_table</label>
+            <language>en</language>
+            <name>x_test123_test_table</name>
+            <plural>test_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2017-06-12 22:59:34</sys_created_on>
+            <sys_id>ff3a6b71f1533200964f7268755275f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test_table</sys_name>
+            <sys_package display_value="test123" source="x_test123">112a6771f1533200964f7268755275e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test123">112a6771f1533200964f7268755275e3</sys_scope>
+            <sys_update_name>sys_documentation_x_test123_test_table__en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2017-06-12 22:59:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
